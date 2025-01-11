@@ -1,46 +1,69 @@
-# Hi there, I'm Tarik Bratic! 👋
-I'm a Computer Engineering student at the Royal Institute of Technology in Stockholm. I love working on **web development**, **software engineering**, and have a strong interest in **motorsports** / **vehicle development** and **music** / **the music industry**.
+# Hi there, I'm Tarik Bratic! 👋  
+I'm a **Computer Engineering student** at the Royal Institute of Technology (KTH) in Stockholm. I have a passion for **web development**, **software engineering**, and a special interest in **motorsports** 🚗💨, **app development**, and **music** 🎵.  
 
-## 🛠 Skills & Technologies
-- Languages: C, C#, HTML/CSS, Java, JavaScript, Swift, Kotlin
-- Web Development: JSP, Gatsby, React
-- Databases: MySQL, MongoDB
-- Tools: IntelliJ, Visual Studio, Git, Android Studios, XCode
+---
 
-## 🔭 Projects
-Coming Soon
-<!-- [Webshop Project](https://github.com/yourusername/webshop) – A full-stack e-commerce application using Java, JSP, JDBC, and a three-tier architecture.
-- [Motorsports Data Analysis](https://github.com/yourusername/motorsports-analysis) – Analyzing race data using Python and Pandas. -->
+## 🚀 About Me  
+- 💻 I thrive on building efficient, user-focused applications.  
+- 🎯 Aspiring to work behind the scenes in **Web Development** and **App Development**.  
+- 🏋️‍♂️ When I’m not coding, you’ll find me grinding in the **gym** or exploring the latest **video games** with friends.  
 
-## 🌱 Currently Learning
-I'm diving deeper into RESTful APIs and expanding my knowledge of JavaScript with Gatsby.
+---
 
-## 📫 How to Reach Me
-- Email: tarik.bratic@example.com
-- LinkedIn: [Tarik Bratic](https://linkedin.com/in/yourprofile)
+## 🛠 Skills & Technologies  
 
-## 🎯 Fun Fact
-When I'm not coding, you can find me in the gym grinding or playing video games with my friends ;)
+### **Programming Languages**  
+- **Proficient:** Swift, Java, JavaScript, Kotlin, C, C#  
+- **Markup/Styling:** HTML, CSS  
 
-## ⚡ GitHub Stats
-![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### **Frameworks & Tools**  
+- **Frontend:** React, Gatsby  
+- **Backend:** JSP, JDBC, Spring Boot, REST APIs  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Mobile Development:** Swift (iOS), Kotlin (Android)  
+- **Tools:** IntelliJ IDEA, Visual Studio, Git, Android Studio, Xcode
 
-## 🙏 Thanks for Visiting!
-Feel free to explore my repositories and connect with me!
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tarik-bratic&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+---
 
-<!--
-**tarik-bratic/tarik-bratic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Projects  
 
-Here are some ideas to get you started:
+### **Run for It**  
+A **running tracker app** built with **Swift** and **SwiftUI**.  
+- Tracks **distance**, **pace**, and **average speed**.  
+- Includes real-time **GPS route visualization** and a **history view** for reviewing stats.  
+- Planned features: **CloudKit integration** for cross-device synchronization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Run For It Project](https://github.com/tarik-bratic/RunforIt.git) 
+
+---
+
+## 🌱 Currently Learning  
+- Advanced **RESTful API** design and integration.  
+- Enhancing proficiency with **Gatsby** for modern web development.  
+
+---
+
+## 📫 Let's Connect  
+- **Email:** [tarik.bratic@example.com](mailto:tarik.bratic@example.com)  
+- **LinkedIn:** [Tarik Bratic](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [Tarik Bratic](https://github.com/yourusername)  
+
+---
+
+## ⚡ Fun Fact  
+- 📱 My dream is to work in app development, creating impactful, user-friendly applications that make a difference in people's lives. 
+- 🎮 I believe the best ideas can come from playing video games with friends.  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarik-bratic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tarik-bratic&theme=tokyonight&hide_border=true)
+
+---
+
+## 🙏 Thanks for Visiting!  
+Feel free to explore my repositories, drop a star ⭐, and connect with me. Let’s build something awesome together!  
