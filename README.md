@@ -2,10 +2,10 @@
 I'm a Computer Engineering student at the Royal Institute of Technology in Stockholm. I love working on **web development**, **software engineering**, and have a strong interest in **motorsports** / **vehicle development** and **music** / **the music industry**.
 
 ## 🛠 Skills & Technologies
-- Languages: C, C#, HTML/CSS, Java, JavaScript
+- Languages: C, C#, HTML/CSS, Java, JavaScript, Swift, Kotlin
 - Web Development: JSP, Gatsby, React
 - Databases: MySQL, MongoDB
-- Tools: IntelliJ, Visual Studio, Git
+- Tools: IntelliJ, Visual Studio, Git, Android Studios, XCode
 
 ## 🔭 Projects
 Coming Soon
